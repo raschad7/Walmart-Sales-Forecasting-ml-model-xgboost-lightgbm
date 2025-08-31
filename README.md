@@ -87,4 +87,3 @@ Our advanced models (XGBoost & LightGBM) achieved **highly accurate forecasts (R
 - **Boost investor confidence through reliable target achievement**
 
 This approach demonstrates how **data-driven forecasting** can directly enhance retail decision-making and financial outcomes.
-```
